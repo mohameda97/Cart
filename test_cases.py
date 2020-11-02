@@ -6,7 +6,6 @@ from flaskr import app
 
 
 class BookTestCase(unittest.TestCase):
-    """This class represents the trivia test case"""
 
     def setUp(self):
         """Define test variables and initialize app."""
